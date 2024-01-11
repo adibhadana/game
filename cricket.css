@@ -1,0 +1,55 @@
+
+body{
+    text-align: center;
+    background-color: #57f061;
+}
+.choice-image{
+    height: 75px;
+    background-color: #97f495;
+    border-radius: 25px;
+  
+}
+.choice-button{
+    height: 100px;
+    width: 100px;
+    
+    border-radius: 50px;
+    background-color:  #97f495;
+ margin: 10px;
+    cursor: pointer;
+    
+}
+.reset-button{
+    background-color: #3b3bef;
+    border: none;
+    border-radius: 5px;
+    height: 3rem;
+    width: 6rem;
+    color: beige;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor:pointer ;
+}
+.reset-button:hover {
+    background-color: rgb(151, 214, 239);
+    color: #000006;
+}
+h1{
+    color: #fbfbfe;
+    background-color:#3b3bef;
+    font-weight: 900;
+    padding: 2rem;
+    border-radius: 50rem 50rem 0rem 0rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button-section{
+    background-color: #e9e9f3;
+}
+.scor{
+    background-color:#f9f9f930;
+}
+h3{
+    color: #3b3bef;
+    font-family:   sans-serif;
+}
